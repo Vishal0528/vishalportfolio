@@ -1,0 +1,20 @@
+body{background-color:#F6F6F6;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+border-color:#4F200D;
+border-width:5px ;
+  width:7%;
+  
+}
+h1,h3{
+    color: #66BFBF;
+}
+table,ol,ul{
+    color:black ;
+}
+href{
+    color=#B3005E
+}
